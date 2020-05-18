@@ -69,7 +69,9 @@ p{
 .clr{
     clear: both;
 }
+/* padding */
 
+/* padding end */
 
 /* navbar */
 #navbar{
@@ -177,3 +179,22 @@ p{
     padding: 20px;
 }
 /* footer end */
+
+
+
+/* about page */
+#about-info .info-right{
+    float:right;
+    width: 50%;
+    min-height: 100%;
+}
+#about-info .info-right img{
+    display: block;
+    margin: auto;
+    width: 70%;
+}
+#about-info .info-left{
+    float:left;
+    width: 50%;
+    min-height: 100%;
+}
